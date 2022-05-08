@@ -1,4 +1,14 @@
-### Hi there 👋
+### <h1>Hi there 👋</h1>
+
+<h2>세명대 스마트IT학부 채훈 학생입니다. </h2>
+
+<p>
+  
+  </p>
+  
+  <br />
+  <h2> Program</h2>
+  
 
 <!--
 **Chae2018/Chae2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
