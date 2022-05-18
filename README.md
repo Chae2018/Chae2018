@@ -9,8 +9,7 @@
   <br />
   <h2> Learning Program</h2>
   
-  ![C++](https://img.shields.io/badge/-C++-img.shields.io/badge/-C%2B%2B-brightgreen)
-  ![C++](https://img.shields.io/badge/C%2B%2B-C%2B%2B-brightgreen)
+  ![C++](https://img.shields.io/badge/--C%2B%2B-brightgreen)
 
 <!--
 **Chae2018/Chae2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
