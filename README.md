@@ -7,9 +7,9 @@
   </p>
   
   <br />
-  <h2> Program</h2>
+  <h2> Learning Program</h2>
   
-  ![C++](https://img.shields.io/badge/-https://img.shields.io/badge/C%2B%2B----white)
+  ![C++](https://img.shields.io/badge/-C++-img.shields.io/badge/-C%2B%2B-brightgreen)
   
 
 <!--
