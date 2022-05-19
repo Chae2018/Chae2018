@@ -9,7 +9,7 @@
   <br />
   <h2> Learning Program</h2>
   
-  ![C++](https://img.shields.io/badge/--C%2B%2B-brightgreen)
+  ![C++](https://img.shields.io/badge/C%2B%2B-brightgreen)
   ![Ubuntu](https://img.shields.io/badge/ubuntu-orange)
 
 <!--
